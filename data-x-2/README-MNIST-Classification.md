@@ -1,10 +1,15 @@
-# Project Title
+# Classify handwritten digits using the classic MNIST dataset.
 
-One Paragraph of project description goes here
+Use three different approaches:
+1) Use a random forest (of decision trees)
+2) Use a multi-layered feedforward neural network with 1 hidden layer (MLFFNN)
+3) Use a convolutional neural network (CNN).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can refer the following resources to download MNIST dataset:
+1) Keras documentation: https://keras.io/examples/mnist_cnn/
+2) Scikit Learn documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_openml.html
 
 ### Prerequisites
 
